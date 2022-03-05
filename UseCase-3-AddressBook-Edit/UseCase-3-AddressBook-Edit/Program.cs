@@ -129,14 +129,14 @@ namespace Day_9_addressbook_edit
                             a.email = Convert.ToString(Console.ReadLine());
                             addbook.Add(a.email);
                             Console.WriteLine("\nGiven new Details Are : \n");
-                            Console.WriteLine("First Name = " + addbook[8]);
-                            Console.WriteLine("Lastt Name = " + addbook[9]);
-                            Console.WriteLine("Address = " + addbook[10]);
-                            Console.WriteLine("City = " + addbook[11]);
-                            Console.WriteLine("State = " + addbook[12]);
-                            Console.WriteLine("Zip = " + addbook[13]);
-                            Console.WriteLine("Phone Number = " + addbook[14]);
-                            Console.WriteLine("Email = " + addbook[15]);
+                            Console.WriteLine("First Name = " + addbook[0]);
+                            Console.WriteLine("Lastt Name = " + addbook[1]);
+                            Console.WriteLine("Address = " + addbook[2]);
+                            Console.WriteLine("City = " + addbook[3]);
+                            Console.WriteLine("State = " + addbook[4]);
+                            Console.WriteLine("Zip = " + addbook[5]);
+                            Console.WriteLine("Phone Number = " + addbook[6]);
+                            Console.WriteLine("Email = " + addbook[7]);
                         }
                         else if ((a.firstName2 == fname) && (a.lastName2 == lname))
                         {
