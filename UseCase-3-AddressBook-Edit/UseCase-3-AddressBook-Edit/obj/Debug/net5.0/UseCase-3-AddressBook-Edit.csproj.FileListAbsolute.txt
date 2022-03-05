@@ -1,0 +1,16 @@
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.exe
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.deps.json
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.runtimeconfig.json
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.runtimeconfig.dev.json
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.dll
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\bin\Debug\net5.0\UseCase-3-AddressBook-Edit.pdb
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.csproj.AssemblyReference.cache
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.AssemblyInfoInputs.cache
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.AssemblyInfo.cs
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.dll
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\refint\UseCase-3-AddressBook-Edit.dll
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.pdb
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\UseCase-3-AddressBook-Edit.genruntimeconfig.cache
+D:\.net\UseCase-3-AddressBook-Edit\UseCase-3-AddressBook-Edit\obj\Debug\net5.0\ref\UseCase-3-AddressBook-Edit.dll
