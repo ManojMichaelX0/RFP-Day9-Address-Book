@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UseCase-4-AddressBook-Delete/1.0.0": {
+        "runtime": {
+          "UseCase-4-AddressBook-Delete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UseCase-4-AddressBook-Delete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

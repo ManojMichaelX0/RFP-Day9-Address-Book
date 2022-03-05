@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCase-4-AddressBook-Delete", "UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete.csproj", "{9796B175-7230-4B32-B7E2-7CD73F287001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9796B175-7230-4B32-B7E2-7CD73F287001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9796B175-7230-4B32-B7E2-7CD73F287001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9796B175-7230-4B32-B7E2-7CD73F287001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9796B175-7230-4B32-B7E2-7CD73F287001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F256E3-2E15-4481-AEB1-A30BC50D8220}
+	EndGlobalSection
+EndGlobal

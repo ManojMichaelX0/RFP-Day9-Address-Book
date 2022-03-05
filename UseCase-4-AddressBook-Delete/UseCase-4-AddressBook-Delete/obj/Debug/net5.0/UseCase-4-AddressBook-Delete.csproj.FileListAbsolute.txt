@@ -1,0 +1,16 @@
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.exe
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.deps.json
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.runtimeconfig.json
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.runtimeconfig.dev.json
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.dll
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\bin\Debug\net5.0\UseCase-4-AddressBook-Delete.pdb
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.csproj.AssemblyReference.cache
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.AssemblyInfoInputs.cache
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.AssemblyInfo.cs
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.dll
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\refint\UseCase-4-AddressBook-Delete.dll
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.pdb
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\UseCase-4-AddressBook-Delete.genruntimeconfig.cache
+D:\.net\UseCase-4-AddressBook-Delete\UseCase-4-AddressBook-Delete\obj\Debug\net5.0\ref\UseCase-4-AddressBook-Delete.dll
